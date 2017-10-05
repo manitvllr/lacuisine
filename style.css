@@ -1,0 +1,81 @@
+body{
+  text-align: center;
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+	text-align: center;
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 100px;
+}
+h2 {
+  font-family: Courier;
+  color: pink;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-weight: lighter;
+  font-size: 50px;
+}
+a {
+  color: pink;
+  font-size: 30px;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+p {
+  font-size: 20px;
+  color: black;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("http://img.deco.fr/photo/08521734-photo-plan-de-travail-cuisine-bois-leroy-merlin.jpg");
+  margin-bottom: 80px;
+  background-size: cover;
+  padding: 110px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  margin-top: 60px;
+}
+#footer a {
+  color: pink;
+  font-size: 25px;
+}
+#footer a:hover {
+  color: white;
+}
+ul {
+  font-size: 80px;
+}
+.card{
+  padding: 800px;
+  font-weight: lighter;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#form-wufoo{
+  margin-top: 100px;
+}
